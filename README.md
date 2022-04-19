@@ -1,7 +1,7 @@
 # Dynamic Binary Tree
 This is a dynamic binary tree developed as demo using React JS and Laravel 9. This package has one API and React Frontend to view binary tree.
 
-# How To Configure
+# How to Configure
 1) First thing we are going to create a mysql database with name "binarytree".
 2) Than you need to run following commands in project directory to configure vendor and node modules.
    - npm install
