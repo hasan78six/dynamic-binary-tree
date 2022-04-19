@@ -1,4 +1,4 @@
-# dynamic-binary-tree
+# Dynamic Binary Tree
 This is a dynamic binary tree developed as demo using React JS and Laravel 9. This package has one API and React Frontend to view binary tree.
 
 # How to configure
